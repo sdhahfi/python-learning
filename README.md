@@ -1,3 +1,13 @@
+
 # Python Learning
 
-My learning path for Python, AI and robotics.
+Learning Python for AI, robotics and control.
+
+## Goals
+
+- Python
+- NumPy
+- Matplotlib
+- PyTorch
+- Robotics
+- Robot Learning
